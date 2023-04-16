@@ -1,0 +1,132 @@
+﻿quantity,unit,symbol,coefficient,SI,Match
+طول,متر,m,1,TRUE,TRUE
+طول,اینچ,in,0.0254,FALSE,TRUE
+طول,فوت,ft,0.3048,FALSE,TRUE
+طول,مایل,mile,1609.34,FALSE,TRUE
+طول,یارد,yard,0.9144,FALSE,TRUE
+طول,مایل دریایی,nautical mile,1852,FALSE,TRUE
+طول,میکرون,µm,1.00E-06,FALSE,TRUE
+طول,آنگستروم,angstrom,1.00E-10,FALSE,TRUE
+طول,ارش,,1.04E+00,FALSE,TRUE
+طول,ذرع,,1.04,FALSE,TRUE
+طول,گز,,1.04,FALSE,TRUE
+طول,وجب,,0.225,FALSE,TRUE
+طول,فرسنگ,,6239.86,FALSE,TRUE
+طول,فرسخ,,6239.86,FALSE,TRUE
+طول,فرسنگ شرعی,,5366.534,FALSE,TRUE
+طول,فرسخ شرعی,,5366.534,FALSE,TRUE
+طول,فاتوم,ftm,1.829,FALSE,TRUE
+طول,زنجیر,chain,20.117,FALSE,TRUE
+طول,فرلانگ,fur,201.168,FALSE,TRUE
+طول,میل,,0.0000254,FALSE,TRUE
+طول,ثو,,0.0000254,FALSE,TRUE
+طول,ژو,xu,1.002,FALSE,TRUE
+طول,سال نوری,light year,9.46E+15,FALSE,TRUE
+طول,ثانیه نوری,light second,3.00E+08,FALSE,TRUE
+طول,واحد نجومی,au,1.50E+11,FALSE,TRUE
+طول,پارسک,pc,3.09E+16,FALSE,TRUE
+طول,شعاع خورشیدی,solar radius,6.96E+08,FALSE,TRUE
+مساحت,متر مربع,m2,1,TRUE,FALSE
+مساحت,هکتار,hectare,10000,FALSE,TRUE
+مساحت,جریب,acre,4046.86,FALSE,TRUE
+حجم,متر مکعب,,1,TRUE,FALSE
+حجم,لیتر,l,0.001,FALSE,TRUE
+حجم,لیتر,L,0.001,FALSE,TRUE
+حجم,سی‌سی,cc,0.000001,FALSE,TRUE
+حجم,سی سی,,0.000001,FALSE,TRUE
+حجم,گالن,gal,0.003785,FALSE,TRUE
+حجم,گالن آمریکایی,gal us,0.003785,FALSE,TRUE
+حجم,گالن انگلیسی,gal uk,0.00454609,FALSE,TRUE
+حجم,بشکه,barrel,0.158987,FALSE,TRUE
+زمان,ثانیه,s,1,TRUE,TRUE
+زمان,دقیقه,min,60,FALSE,TRUE
+زمان,ساعت,h,3600,FALSE,TRUE
+زمان,روز,Day,86400,FALSE,TRUE
+زمان,هفته,Week,604800,FALSE,TRUE
+زمان,ماه,Month,2629800,FALSE,TRUE
+زمان,ماه قمری,,2551440,FALSE,TRUE
+زمان,سال,Year,31557600,FALSE,TRUE
+زمان,سال قمری,,30617280,FALSE,TRUE
+زمان,دهه,Decade,315576000,FALSE,TRUE
+زمان,قرن,Century,3155760000,FALSE,TRUE
+چگالی,گرم بر متر مکعب,g/m3,1,TRUE,FALSE
+چگالی,گرم بر متر مکعب,g.m-3,1,FALSE,FALSE
+جرم,گرم,g,1,TRUE,TRUE
+جرم,تن,ton,1000000,FALSE,TRUE
+جرم,پوند,lb,453.592,FALSE,TRUE
+جرم,اونس,oz,28.3495,FALSE,TRUE
+جرم,اونس معمولی,oz,28.3495,FALSE,TRUE
+جرم,اونس تروا,oz t,31.1,FALSE,TRUE
+جرم,اونس تروی,oz t,31.1,FALSE,TRUE
+جرم,اسلاگ,slug,14593.9,FALSE,TRUE
+جرم,قیراط,carat,0.2,FALSE,TRUE
+جرم,مثقال,,4.608,FALSE,TRUE
+جرم,سیر,,75,FALSE,TRUE
+جرم,چارک,,750,FALSE,TRUE
+جرم,سوت,,0.001,FALSE,TRUE
+جرم,گندم,,0.048,FALSE,TRUE
+جرم,نخود,,0.192,FALSE,TRUE
+جرم,خروار,,300000,FALSE,TRUE
+جرم,من,,50,FALSE,TRUE
+جرم,من اصفهانی,,50,FALSE,TRUE
+جرم,من اصفهان,,50,FALSE,TRUE
+جرم,من تبریزی,,100,FALSE,TRUE
+جرم,من تبریز,,100,FALSE,TRUE
+جرم,من ری,,25,FALSE,TRUE
+جرم,من لرستانی,,30,FALSE,TRUE
+جرم,من لرستان,,30,FALSE,TRUE
+جرم,من لرستان,,30,FALSE,TRUE
+نیرو,نیوتن,N,1,TRUE,TRUE
+نیرو,دین,dyn,0.00001,FALSE,TRUE
+نیرو,پوندال,pdl,0.138254954,FALSE,TRUE
+انرژی,ژول,j,1,TRUE,TRUE
+انرژی,کالری,cal,4.184,FALSE,TRUE
+انرژی,واحد گرمایی انگلیسی,BTU,1055.06,FALSE,TRUE
+انرژی,ارگ,erg,1.00E-07,FALSE,TRUE
+انرژی,هارتری,Eh,4.36E-18,FALSE,TRUE
+انرژی,ریدبرگ,Ry,2.18E-18,FALSE,TRUE
+انرژی,الکترون ولت,ev,1.60E-19,FALSE,TRUE
+انرژی,بشکه نفت,BOE,6.12E+09,FALSE,TRUE
+انرژی,تن نفت,toe,41868000000,FALSE,TRUE
+فشار,پاسکال,pa,1,TRUE,TRUE
+فشار,لیتر اتمسفر,L.atm,101.325,FALSE,TRUE
+فشار,بار,bar,100000,FALSE,TRUE
+فشار,پی‌اس‌آی,p.s.i,6894.76,FALSE,TRUE
+فشار,پی اس آی,psi,6894.76,FALSE,TRUE
+فشار,باری,barye,0.1,FALSE,TRUE
+فشار,اتمسفر,atm,101325,FALSE,TRUE
+فشار,تور,torr,133.322,FALSE,TRUE
+فشار,متر جیوه,mHg,133322.4,FALSE,TRUE
+فشار,اینچ جیوه,inHg,3386.39,FALSE,TRUE
+فشار,فوت جیوه,ftHg,40636.663,FALSE,TRUE
+فشار,متر آب,mH2O,9806.65,FALSE,TRUE
+فشار,اینچ آب,inH2O,249.089,FALSE,TRUE
+فشار,فوت آب,ftH2O,2989,FALSE,TRUE
+فشار,اتمسفر فنی,at,98066.5,FALSE,TRUE
+سرعت,متر بر ثانیه,m/s,1,TRUE,FALSE
+سرعت,ماخ,M,340.277,FALSE,TRUE
+سرعت,گره,knot,0.514444,FALSE,TRUE
+توان,وات,W,1,TRUE,TRUE
+توان,اسب بخار,hp,745.7,FALSE,TRUE
+دما,کلوین,K,1,TRUE,TRUE
+دما,سلسیوس,C,,FALSE,TRUE
+دما,سانتیگراد,C,,FALSE,TRUE
+دما,سانتی‌گراد,C,,FALSE,TRUE
+دما,سانتی گراد,C,,FALSE,TRUE
+دما,فارنهایت,F,,FALSE,TRUE
+دما,رانکین,R,,FALSE,TRUE
+زاویه,رادیان,Rad,1,TRUE,TRUE
+زاویه,درجه,Deg,0.01745329,FALSE,TRUE
+زاویه,گراد,Grad,0.01570796,FALSE,TRUE
+شتاب,متر بر مجذور ثانیه,m/s2,1,TRUE,FALSE
+شتاب,گال,Gal,0.01,FALSE,TRUE
+داده,بیت,,1.00E+00,TRUE,TRUE
+داده,بایت,,8,FALSE,TRUE
+نرخ انتقال,بیت بر ثانیه,,1,TRUE,FALSE
+شارش حجم,متر مکعب بر ثانیه,m3/s,1,TRUE,FALSE
+شارش جرم,گرم بر ثانیه,g/s,1,TRUE,FALSE
+گشتاور,نیوتن متر, Nm,1,TRUE,FALSE
+فرکانس,هرتز,Hz,1,TRUE,TRUE
+فرکانس,دور بر ثانیه,rps,1,FALSE,TRUE
+فرکانس,دور بر دقیقه,rpm,0.0166667,FALSE,TRUE
+فرکانس,دور بر ساعت,rph,0.00027778,FALSE,TRUE
